@@ -28,7 +28,7 @@ window.SITE = {
 
   // Shown on the home page and in the footer. Remove any you don't use.
   social: [
-    { name: "LinkedIn",  note: "Announcements and recaps",  url: "https://www.linkedin.com/company/your-page" },
+    { name: "LinkedIn",  note: "Announcements and recaps",  url: "https://www.linkedin.com/company/null-dallas/" },
     { name: "Meetup",    note: "RSVP for every meet",       url: "https://www.meetup.com/your-group" },
     { name: "Discord",   note: "Chat between meets",        url: "https://discord.gg/your-invite" },
     { name: "X (Twitter)", note: "Talks and quick updates", url: "https://x.com/your-handle" },
