@@ -38,7 +38,7 @@ window.SITE = {
 
 /* -------------------------------------------------------------------------
    EVENTS
-   type:     "Monthly Meet" | "Humla" | "Bachav" | anything else you like
+   type:     "Monthly Meet" | "Lab" | "Workshop" | anything else you like
    date:     "YYYY-MM-DD"
    rsvp:     link for upcoming events (Meetup, Luma, Google Form...). Leave "" if not open yet.
    recap:    link for past events (blog post, LinkedIn post, slides). Optional.
