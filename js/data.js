@@ -44,9 +44,7 @@ window.SITE = {
    recap:    link for past events (blog post, LinkedIn post, slides). Optional.
    attended: number, for past events. Optional.
    ------------------------------------------------------------------------- */
-window.EVENTS = [
-  
-];
+window.EVENTS = [];
 
 /* -------------------------------------------------------------------------
    TEAM
