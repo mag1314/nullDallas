@@ -14,7 +14,7 @@
 window.SITE = {
   chapter: "null Dallas",
   hashtag: "#nulldallas",
-  email: "dallas@example.com", // TODO: your chapter email
+  email: "null.dallas.chapter@gmail.com", // TODO: your chapter email
 
   // Links used by buttons across the site. Replace every "#" / example URL.
   links: {
