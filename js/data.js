@@ -18,7 +18,7 @@ window.SITE = {
 
   // Links used by buttons across the site. Replace every "#" / example URL.
   links: {
-    propose: "https://forms.gle/your-talk-form",      // TODO: Google Form for talk proposals
+    propose: "https://sessionize.com/null-dallas9421/",      // TODO: Google Form for talk proposals
     volunteer: "https://forms.gle/your-volunteer-form", // TODO
     venue: "mailto:dallas@example.com?subject=Hosting%20a%20null%20Dallas%20meet",
     slides: "#",                                       // TODO: intro slides deck
